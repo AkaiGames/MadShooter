@@ -1,0 +1,9 @@
+*~
+bin
+build
+cocos2d
+linux-build
+proj.android/bin
+proj.android/obj
+proj.android/libs
+proj.android/ant.properties
